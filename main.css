@@ -1,0 +1,127 @@
+/*-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;*/
+
+p {
+  font-size: 10px;
+  color: black;
+  font-family: 'Comfortaa', cursive;
+}
+
+h3, h4, h5 {
+  color: black;
+  font-family: 'Comfortaa', cursive;
+}
+
+.img1, .img2 {
+  z-index: -1;
+  position: absolute;
+}
+
+.line {
+  border-top: 2px solid black;
+}
+
+.spacediv, .spacediv2 {
+  padding-bottom: 140px;
+}
+
+.spacediv1 {
+  padding-bottom: 300px;
+}
+
+.logo {
+  margin-left: auto;
+  margin-right: auto;
+  width: 17em
+}
+
+.word1 {
+  float: left;
+  position: relative;
+  padding-right: 15px;
+}
+
+.word2, .word3 {
+  float: left;
+  position: relative;
+  padding-right: 15px;
+
+}
+
+.logo2 {
+  border: 2px solid black;
+  text-align: center;
+  width: 300px;
+}
+
+.logo3 {
+  border: 2px solid black;
+  text-align: center;
+  width: 125px;
+}
+
+.all {
+  border: 2px solid black;
+  text-align: center;
+  width: 35px;
+}
+
+.animals {
+  border: 2px solid black;
+  text-align: center;
+  width: 75px;
+}
+
+.portraits {
+  border: 2px solid black;
+  text-align: center;
+  width: 90px;
+}
+
+.landscapes {
+  border: 2px solid black;
+  text-align: center;
+  width: 105px;
+}
+
+.logo4 {
+    border: 2px solid black;
+    text-align: center;
+    width: 200px;
+}
+
+.ourstory {
+  background-color: mintcream;
+}
+
+.ourstorytext {
+  font-size: 13px;
+}
+
+.logo5 {
+    border: 2px solid black;
+    text-align: center;
+    width: 300px;
+}
+
+.readmoretext {
+  padding-top: 275px;
+  padding-bottom: 225PX;
+}
+
+.blogtext {
+  text-align: center;
+}
+
+.formdiv {
+  border: 2px solid black;
+}
+
+.photorow {
+  float: left;
+}
+
+.bottomdiv {
+  background-color: mintcream
+}
